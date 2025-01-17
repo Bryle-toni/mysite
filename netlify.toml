@@ -17,7 +17,7 @@
 [context.branch-deploy]
   command = "npm run build -- -b $DEPLOY_PRIME_URL"
 
-[context.next]git
+[context.next]
   command = "npm run build"
 
 [context.next.environment]
