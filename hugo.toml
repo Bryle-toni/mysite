@@ -1,0 +1,3 @@
+baseurl = "https://example.org/"
+title = "mysite"
+theme = "PaperMod"

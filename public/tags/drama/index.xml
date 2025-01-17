@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Drama on mysite</title>
+    <link>http://localhost:1313/tags/drama/</link>
+    <description>Recent content in Drama on mysite</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/drama/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Attack on Titan: The Final Chapters</title>
+      <link>http://localhost:1313/posts/markdown-syntax.fa/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/markdown-syntax.fa/</guid>
+      <description>Witness the breathtaking finale of one of the greatest anime sagas.</description>
+    </item>
+  </channel>
+</rss>

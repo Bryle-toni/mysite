@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>mysite</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on mysite</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 10 Anime You Need to Watch This Season</title>
+      <link>http://localhost:1313/posts/papermod/top-10/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/papermod/top-10/</guid>
+      <description>A roundup of the hottest anime this season, offering breathtaking animation and unforgettable storytelling.</description>
+    </item>
+    <item>
+      <title>Attack on Titan: The Final Chapters</title>
+      <link>http://localhost:1313/posts/aot/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/aot/</guid>
+      <description>Witness the breathtaking finale of one of the greatest anime sagas.</description>
+    </item>
+    <item>
+      <title>Blue Lock</title>
+      <link>http://localhost:1313/posts/papermod/papermod-features/blue-lock/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/papermod/papermod-features/blue-lock/</guid>
+      <description>A high-stakes soccer anime that redefines teamwork and ambition.</description>
+    </item>
+    <item>
+      <title>Chainsaw Man</title>
+      <link>http://localhost:1313/posts/papermod/chainsaw-man/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/papermod/chainsaw-man/</guid>
+      <description>Dive into the chaotic world of Chainsaw Man, where dark humor meets thrilling action.</description>
+    </item>
+    <item>
+      <title>Demon Slayer: Swordsmith Village Arc</title>
+      <link>http://localhost:1313/posts/demon-slayer/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/demon-slayer/</guid>
+      <description>A visually stunning and action-packed continuation of the Demon Slayer saga.</description>
+    </item>
+    <item>
+      <title>Jujutsu Kaisen Season 2</title>
+      <link>http://localhost:1313/posts/jjk/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jjk/</guid>
+      <description>Delve deeper into the thrilling world of curses and sorcery.</description>
+    </item>
+    <item>
+      <title>Mushoku Tensei: Jobless Reincarnation – A Tale of Growth and Redemption</title>
+      <link>http://localhost:1313/posts/papermod/mushoku-tensei/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/papermod/mushoku-tensei/</guid>
+      <description>Experience the compelling journey of a man reborn into a fantasy world with the chance to reshape his destiny.</description>
+    </item>
+    <item>
+      <title>My Hero Academia Season 7</title>
+      <link>http://localhost:1313/posts/hero-academia/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hero-academia/</guid>
+      <description>The battle between heroes and villains escalates to new heights.</description>
+    </item>
+    <item>
+      <title>One Piece: Gear 5 Transformation</title>
+      <link>http://localhost:1313/posts/one-piece/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/one-piece/</guid>
+      <description>Luffy&amp;#39;s ultimate transformation changes the game in the One Piece saga.</description>
+    </item>
+    <item>
+      <title>Spy x Family Season 2</title>
+      <link>http://localhost:1313/posts/spy-x-family/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/spy-x-family/</guid>
+      <description>The Forger family returns with more action, comedy, and heartwarming moments.</description>
+    </item>
+    <item>
+      <title>Tokyo Revengers: Tenjiku Arc</title>
+      <link>http://localhost:1313/posts/tokyo-revenger/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tokyo-revenger/</guid>
+      <description>Takemichi faces his toughest challenge yet in the Tenjiku Arc.</description>
+    </item>
+  </channel>
+</rss>
