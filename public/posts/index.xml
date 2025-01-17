@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on mysite</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on mysite</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown Syntax Guide For L2</title>
-      <link>http://localhost:1313/posts/markdown-syntax.fr/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/markdown-syntax.fr/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      <title>Attack on Titan: The Final Chapters</title>
+      <link>//localhost:1313/posts/aot/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/aot/</guid>
+      <description>Witness the breathtaking finale of one of the greatest anime sagas.</description>
     </item>
     <item>
-      <title>Markdown Syntax Guide For RTL</title>
-      <link>http://localhost:1313/posts/markdown-syntax.fa/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/markdown-syntax.fa/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      <title>Demon Slayer: Swordsmith Village Arc</title>
+      <link>//localhost:1313/posts/demon-slayer/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/demon-slayer/</guid>
+      <description>A visually stunning and action-packed continuation of the Demon Slayer saga.</description>
     </item>
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/markdown-syntax/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      <title>Jujutsu Kaisen Season 2</title>
+      <link>//localhost:1313/posts/jjk/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/jjk/</guid>
+      <description>Delve deeper into the thrilling world of curses and sorcery.</description>
     </item>
     <item>
-      <title>Code Syntax Guide</title>
-      <link>http://localhost:1313/posts/code_syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/code_syntax/</guid>
-      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+      <title>My Hero Academia Season 7</title>
+      <link>//localhost:1313/posts/hero-academia/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/hero-academia/</guid>
+      <description>The battle between heroes and villains escalates to new heights.</description>
     </item>
     <item>
-      <title>Rich Content and Shortcodes</title>
-      <link>http://localhost:1313/posts/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/rich-content/</guid>
-      <description>A brief description of Hugo Shortcodes</description>
+      <title>One Piece: Gear 5 Transformation</title>
+      <link>//localhost:1313/posts/one-piece/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/one-piece/</guid>
+      <description>Luffy&amp;#39;s ultimate transformation changes the game in the One Piece saga.</description>
     </item>
     <item>
-      <title>Math Typesetting</title>
-      <link>http://localhost:1313/posts/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/math-typesetting/</guid>
-      <description>A brief guide to setup KaTeX</description>
+      <title>Spy x Family Season 2</title>
+      <link>//localhost:1313/posts/spy-x-family/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/spy-x-family/</guid>
+      <description>The Forger family returns with more action, comedy, and heartwarming moments.</description>
     </item>
     <item>
-      <title>Emoji Support</title>
-      <link>http://localhost:1313/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/emoji-support/</guid>
-      <description>Guide to emoji usage in Hugo</description>
+      <title>Tokyo Revengers: Tenjiku Arc</title>
+      <link>//localhost:1313/posts/tokyo-revenger/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/tokyo-revenger/</guid>
+      <description>Takemichi faces his toughest challenge yet in the Tenjiku Arc.</description>
     </item>
   </channel>
 </rss>

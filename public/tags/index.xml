@@ -2,122 +2,178 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on mysite</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on mysite</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Docs</title>
-      <link>http://localhost:1313/tags/docs/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/docs/</guid>
+      <title>Action</title>
+      <link>//localhost:1313/tags/action/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/action/</guid>
       <description></description>
     </item>
     <item>
-      <title>PaperMod</title>
-      <link>http://localhost:1313/tags/papermod/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/papermod/</guid>
+      <title>Adventure</title>
+      <link>//localhost:1313/tags/adventure/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/adventure/</guid>
       <description></description>
     </item>
     <item>
-      <title>Css</title>
-      <link>http://localhost:1313/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/css/</guid>
+      <title>Anime</title>
+      <link>//localhost:1313/tags/anime/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/anime/</guid>
       <description></description>
     </item>
     <item>
-      <title>Html</title>
-      <link>http://localhost:1313/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/html/</guid>
+      <title>Attack on Titan</title>
+      <link>//localhost:1313/tags/attack-on-titan/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/attack-on-titan/</guid>
       <description></description>
     </item>
     <item>
-      <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/markdown/</guid>
+      <title>Blue Lock</title>
+      <link>//localhost:1313/tags/blue-lock/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/blue-lock/</guid>
       <description></description>
     </item>
     <item>
-      <title>Themes</title>
-      <link>http://localhost:1313/tags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/themes/</guid>
+      <title>Comedy</title>
+      <link>//localhost:1313/tags/comedy/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/comedy/</guid>
       <description></description>
     </item>
     <item>
-      <title>Code</title>
-      <link>http://localhost:1313/tags/code/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/code/</guid>
+      <title>Dark Humor</title>
+      <link>//localhost:1313/tags/dark-humor/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/dark-humor/</guid>
       <description></description>
     </item>
     <item>
-      <title>Gist</title>
-      <link>http://localhost:1313/tags/gist/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gist/</guid>
+      <title>Demon Slayer</title>
+      <link>//localhost:1313/tags/demon-slayer/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/demon-slayer/</guid>
       <description></description>
     </item>
     <item>
-      <title>Privacy</title>
-      <link>http://localhost:1313/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/privacy/</guid>
+      <title>Drama</title>
+      <link>//localhost:1313/tags/drama/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/drama/</guid>
       <description></description>
     </item>
     <item>
-      <title>Shortcodes</title>
-      <link>http://localhost:1313/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/shortcodes/</guid>
+      <title>Fantasy</title>
+      <link>//localhost:1313/tags/fantasy/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/fantasy/</guid>
       <description></description>
     </item>
     <item>
-      <title>Syntax</title>
-      <link>http://localhost:1313/tags/syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/syntax/</guid>
+      <title>Final Season</title>
+      <link>//localhost:1313/tags/final-season/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/final-season/</guid>
       <description></description>
     </item>
     <item>
-      <title>Emoji</title>
-      <link>http://localhost:1313/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/emoji/</guid>
+      <title>Heroes</title>
+      <link>//localhost:1313/tags/heroes/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/heroes/</guid>
       <description></description>
     </item>
     <item>
-      <title>Art</title>
-      <link>http://localhost:1313/tags/art/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/art/</guid>
+      <title>Jujutsu Kaisen</title>
+      <link>//localhost:1313/tags/jujutsu-kaisen/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/jujutsu-kaisen/</guid>
       <description></description>
     </item>
     <item>
-      <title>Culture</title>
-      <link>http://localhost:1313/tags/culture/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/culture/</guid>
+      <title>My Hero Academia</title>
+      <link>//localhost:1313/tags/my-hero-academia/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/my-hero-academia/</guid>
       <description></description>
     </item>
     <item>
-      <title>Music</title>
-      <link>http://localhost:1313/tags/music/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/music/</guid>
+      <title>One Piece</title>
+      <link>//localhost:1313/tags/one-piece/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/one-piece/</guid>
       <description></description>
     </item>
     <item>
-      <title>Philippines</title>
-      <link>http://localhost:1313/tags/philippines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/philippines/</guid>
+      <title>Reincarnation</title>
+      <link>//localhost:1313/tags/reincarnation/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/reincarnation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shonen</title>
+      <link>//localhost:1313/tags/shonen/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/shonen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slice of Life</title>
+      <link>//localhost:1313/tags/slice-of-life/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/slice-of-life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soccer</title>
+      <link>//localhost:1313/tags/soccer/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/soccer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sports</title>
+      <link>//localhost:1313/tags/sports/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/sports/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spy X Family</title>
+      <link>//localhost:1313/tags/spy-x-family/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/spy-x-family/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Time Travel</title>
+      <link>//localhost:1313/tags/time-travel/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/time-travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tokyo Revengers</title>
+      <link>//localhost:1313/tags/tokyo-revengers/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/tokyo-revengers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Top Picks</title>
+      <link>//localhost:1313/tags/top-picks/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/top-picks/</guid>
       <description></description>
     </item>
   </channel>

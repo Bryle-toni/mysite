@@ -2,18 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Drama on mysite</title>
-    <link>http://localhost:1313/tags/drama/</link>
+    <link>//localhost:1313/tags/drama/</link>
     <description>Recent content in Drama on mysite</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/drama/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/drama/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 10 Anime You Need to Watch This Season</title>
+      <link>//localhost:1313/posts/papermod/top-10/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/papermod/top-10/</guid>
+      <description>A roundup of the hottest anime this season, offering breathtaking animation and unforgettable storytelling.</description>
+    </item>
     <item>
       <title>Attack on Titan: The Final Chapters</title>
-      <link>http://localhost:1313/posts/markdown-syntax.fa/</link>
+      <link>//localhost:1313/posts/aot/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/markdown-syntax.fa/</guid>
+      <guid>//localhost:1313/posts/aot/</guid>
       <description>Witness the breathtaking finale of one of the greatest anime sagas.</description>
+    </item>
+    <item>
+      <title>Tokyo Revengers: Tenjiku Arc</title>
+      <link>//localhost:1313/posts/tokyo-revenger/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/tokyo-revenger/</guid>
+      <description>Takemichi faces his toughest challenge yet in the Tenjiku Arc.</description>
     </item>
   </channel>
 </rss>

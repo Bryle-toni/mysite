@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Top Picks on mysite</title>
-    <link>http://localhost:1313/tags/top-picks/</link>
+    <link>//localhost:1313/tags/top-picks/</link>
     <description>Recent content in Top Picks on mysite</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/top-picks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/top-picks/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Top 8 Anime You Need to Watch This Season</title>
-      <link>http://localhost:1313/posts/papermod/papermod-faq/</link>
+      <title>Top 10 Anime You Need to Watch This Season</title>
+      <link>//localhost:1313/posts/papermod/top-10/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/papermod/papermod-faq/</guid>
-      <description>Discover the hottest anime of the season, from action-packed adventures to heartwarming family tales.</description>
+      <guid>//localhost:1313/posts/papermod/top-10/</guid>
+      <description>A roundup of the hottest anime this season, offering breathtaking animation and unforgettable storytelling.</description>
     </item>
   </channel>
 </rss>

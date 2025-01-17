@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reincarnation on mysite</title>
-    <link>http://localhost:1313/tags/reincarnation/</link>
+    <link>//localhost:1313/tags/reincarnation/</link>
     <description>Recent content in Reincarnation on mysite</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/reincarnation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/reincarnation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mushoku Tensei: Jobless Reincarnation – A Tale of Growth and Redemption</title>
-      <link>http://localhost:1313/posts/papermod/papermod-faq/</link>
+      <link>//localhost:1313/posts/papermod/mushoku-tensei/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/papermod/papermod-faq/</guid>
+      <guid>//localhost:1313/posts/papermod/mushoku-tensei/</guid>
       <description>Experience the compelling journey of a man reborn into a fantasy world with the chance to reshape his destiny.</description>
     </item>
   </channel>
